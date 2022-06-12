@@ -1,4 +1,4 @@
-# Kinematics-Humanoid
+# Design of Humanoid Gait using Kinematics on MATLAB
 This repository contains MATLAB supporting files for kinematic humanoid walk generation using linear oscillators
 
 The following video shows one gait cycle and ZMP (Zero moment position) on the robot footprint as it takes the step forward.
